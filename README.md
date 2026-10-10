@@ -45,5 +45,5 @@ _To be filled in: assembler, IDE and how to run (for example MASM with the Irvin
 
 ## Team
 
-- [Umer](https://github.com/umerhassanbajwa)
-- [mariiii-03](https://github.com/mariiii-03)
+- [Umer Hassan](https://github.com/umerhassanbajwa)
+- [Maria Tariq](https://github.com/mariiii-03)
